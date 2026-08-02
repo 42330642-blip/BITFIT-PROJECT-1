@@ -1,4 +1,4 @@
-function Footer() {
+Function Footer() {
   return (
     <footer className="footer-box text-white py-4 mt-auto">
       <div className="container d-md-flex justify-content-between align-items-center">
