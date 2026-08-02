@@ -4,7 +4,7 @@ export const workouts = [
     type: 'Cardio',
     time: '25 min',
     level: 'Beginner',
-    text: 'A simple routine with jogging, jumping jacks, and body movement to improve heart health.'
+    text: 'A Simple routine with jogging, jumping jacks, and body movement to improve heart health.'
   },
   {
     title: 'Full Body Strength',
