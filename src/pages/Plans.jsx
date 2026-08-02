@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function Plans() {
+Function Plans() {
   const [height, setHeight] = useState('')
   const [weight, setWeight] = useState('')
   const [bmi, setBmi] = useState('')
