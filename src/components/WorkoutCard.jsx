@@ -1,4 +1,4 @@
-function WorkoutCard({ item }) {
+Function WorkoutCard({ item }) {
   return (
     <div className="col-md-6 col-lg-4">
       <div className="card custom-card h-100">
