@@ -161,7 +161,7 @@ main {
 }
 
 .price-text {
-  color: var(--red);
+  color: Var(--red);
   font-weight: 800;
 }
 
