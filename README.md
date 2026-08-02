@@ -5,7 +5,7 @@
 Ahmad's BitFit  is a responsive fitness and workout web application developed for CSCI390 Project Phase 2. The project continues the same idea from Phase 1 but rebuilds it using ReactJS. The website helps users view workouts, read nutrition tips, check fitness plans, calculate BMI, and contact the website team.
 
 ## Student Information
-Name:Ahmad Al Asmar
+Name:Ahmad Al ASmar
 
 ID:42330642
 
