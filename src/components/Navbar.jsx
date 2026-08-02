@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 
-function Navbar() {
+Function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark nav-box sticky-top">
       <div className="container">
