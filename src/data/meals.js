@@ -1,7 +1,7 @@
 export const meals = [
   {
     name: 'Protein Breakfast',
-    info: 'Eggs, oats, banana, and milk give the body energy and protein in the morning.'
+    info: 'Eggs, oats, Banana, and milk give the body energy and protein in the morning.'
   },
   {
     name: 'Balanced Lunch',
