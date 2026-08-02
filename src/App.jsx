@@ -7,7 +7,7 @@ import Plans from './pages/Plans.jsx'
 import Nutrition from './pages/Nutrition.jsx'
 import Contact from './pages/Contact.jsx'
 
-function App() {
+Function App() {
   return (
     <BrowserRouter>
       <div className="site-wrap">
