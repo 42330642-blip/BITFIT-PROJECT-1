@@ -2,7 +2,7 @@ import { useState } from 'react'
 import WorkoutCard from '../components/WorkoutCard.jsx'
 import { workouts } from '../data/workouts.js'
 
-function Workouts() {
+Function Workouts() {
   const [pick, setPick] = useState('All')
   const types = ['All', 'Cardio', 'Strength', 'Yoga', 'HIIT']
   const list = pick === 'All' ? workouts : workouts.filter((item) => item.type === pick)
