@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-Function Contact() {
+function Contact() {
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [message, setMessage] = useState('')
