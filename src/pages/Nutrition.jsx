@@ -1,6 +1,6 @@
 import { meals } from '../data/meals.js'
 
-Function Nutrition() {
+function Nutrition() {
   return (
     <section className="container py-5 page-space">
       <div className="text-center mb-5">
