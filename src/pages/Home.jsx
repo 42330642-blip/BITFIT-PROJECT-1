@@ -5,7 +5,7 @@ import Hero from '../components/Hero.jsx'
 function Home() {
   const cards = [
     { icon: <Dumbbell size={34} />, title: 'Workout Library', text: 'Choose routines for cardio, strength, yoga, and HIIT.' },
-    { icon: <Activiy size={34} />, title: 'BMI Tool', text: 'Calculate body mass index using height and weight.' },
+    { icon: <Activity size={34} />, title: 'BMI Tool', text: 'Calculate body mass index using height and weight.' },
     { icon: <Apple size={34} />, title: 'Nutrition Tips', text: 'Learn simple daily habits for better eating.' },
     { icon: <ShieldCheck size={34} />, title: 'Safe Progress', text: 'Start slowly and increase difficulty with time.' }
   ]
